@@ -1,0 +1,25 @@
+.box1{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.bg-color{
+    background-color: #E9ECEF;
+}
+
+.btn{
+    background-color: #FA2FB5;
+    width: 80px;
+    margin-left: 20px;
+}
+
+#search{
+    border: none;
+    border-radius: 50px;
+    width: 320px;
+    text-align: center;
+}
+
+.encok{
+    color: #31087B;
+}
+
